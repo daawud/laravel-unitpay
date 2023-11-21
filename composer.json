@@ -1,17 +1,17 @@
 {
-    "name": "actionm/laravel-unitpay",
+    "name": "daawud/laravel-unitpay",
     "description": "UnitPay payments for Laravel",
     "keywords": [
         "laravel-unitpay",
         "unitpay",
         "payments"
     ],
-    "homepage": "https://github.com/actionm/laravel-unitpay",
+    "homepage": "https://github.com/daawud/laravel-unitpay",
     "license": "MIT",
     "authors": [
         {
-            "name": "actionm",
-            "email": "actionmanager@gmail.com"
+            "name": "daawud",
+            "email": "test@gmail.com"
         }
     ],
     "require": {
